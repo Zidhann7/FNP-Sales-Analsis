@@ -1,7 +1,7 @@
 # FNP-Sales-Analsis
 Interactive FNP Sales Analysis Dashboard built in Microsoft Excel to analyze revenue, customer behavior, product performance, and sales trends.
-Objective
 
+## Objective
 The goal of this project is to transform raw sales data into meaningful insights that support business decision-making and identify growth opportunities.
 
 ## Key Features
